@@ -28,6 +28,8 @@ Similar to ALU_1, this problem set modifies the boolean functions for A and B, w
 ![alu2](https://github.com/user-attachments/assets/4052e335-27c8-498a-b23e-36f4af97a1e7)
 ## ALU_3 for Problem Set 3
 In this set, the ALU was modified to include a 4-bit student ID input. The ALU determines whether each digit of the student number is odd ("y") or even ("n") and displays this result along with the student ID.
+## Microcode Table for ALU_3:
+![micro3](https://github.com/user-attachments/assets/b3ec3a31-b5f1-4d3d-92c0-63ef65c2d2f4)
 ## ALU_3 Block Diagram Schematic:
 ![alu3](https://github.com/user-attachments/assets/06f8e7f1-85b7-4a27-a55e-c0a3dcf137b9)
 ## Conclusion
