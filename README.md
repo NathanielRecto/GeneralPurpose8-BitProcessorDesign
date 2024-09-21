@@ -17,19 +17,18 @@ The latches temporarily store input values before transferring them to the ALU, 
 ## ALU_1 for Problem Set 1
 The ALU executes boolean operations between 8-bit values A and B, based on the assigned microcode. The result is displayed on 7-segment displays. Due to clocking synchronization issues, the ALU's operation lags behind the FSM/Decoder output.
 ## Microcode Table for ALU_1:
-
+![micro1](https://github.com/user-attachments/assets/6d6d2a3d-46e1-4c60-8d2f-94555859c5a6)
 ## ALU_1 Block Diagram Schematic:
-
+![alu1](https://github.com/user-attachments/assets/3d7a4e3a-d518-4b07-9a17-da78b33f0693)
 ## ALU_2 for Problem Set 2
 Similar to ALU_1, this problem set modifies the boolean functions for A and B, with new microcodes for different operations. The outputs and functionality remain consistent with Problem Set 1.
-
 ## Microcode Table for ALU_2:
-
+![micro2](https://github.com/user-attachments/assets/9723aa83-a279-4e73-a0ee-128bb1be124b)
 ## ALU_2 Block Diagram Schematic:
-
+![alu2](https://github.com/user-attachments/assets/4052e335-27c8-498a-b23e-36f4af97a1e7)
 ## ALU_3 for Problem Set 3
 In this set, the ALU was modified to include a 4-bit student ID input. The ALU determines whether each digit of the student number is odd ("y") or even ("n") and displays this result along with the student ID.
 ## ALU_3 Block Diagram Schematic:
-
+![alu3](https://github.com/user-attachments/assets/06f8e7f1-85b7-4a27-a55e-c0a3dcf137b9)
 ## Conclusion
 This lab deomstrated the flexibility of ALU design on a FPGA board. The combination of the ALU, FSM, and latches allowed for various boolean operations, state transitions, and displaying results on a 7-segment display.
