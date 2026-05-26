@@ -77,7 +77,7 @@ GeneralPurpose8-BitProcessorDesign/
 │   ├── *.bsf
 │   └── output_files/
 │
-├── General Purpose Processor Report.pdf
+├── assets
 └── README.md
 ```
 
