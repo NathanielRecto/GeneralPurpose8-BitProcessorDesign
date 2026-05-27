@@ -187,3 +187,7 @@ For this version, `HEX3` displays the current student digit and `HEX0` displays 
 ## Conclusion
 
 This project demonstrates how a small processor can be built from simple digital logic blocks. The latch modules store inputs, the FSM and decoder generate operation control signals, and the ALU performs selected operations that are verified through waveform simulation and real FPGA board output.
+
+## License
+
+This repository is for academic and portfolio use. If you reuse this project, follow your institution's academic integrity policy and do not submit it as your own work.
